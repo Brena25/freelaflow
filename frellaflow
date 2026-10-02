@@ -1,0 +1,379 @@
+# 🚀 FreelaFlow
+
+> Organize clientes, projetos, entregas e cobranças em um único lugar.
+
+---
+
+## 📖 Sobre o Projeto
+
+O **FreelaFlow** é um MVP desenvolvido para ajudar freelancers a gerenciar clientes, projetos, entregas e cobranças de forma simples e organizada.
+
+O objetivo é validar a hipótese de que freelancers precisam de uma ferramenta mais prática do que planilhas, anotações e conversas espalhadas no WhatsApp.
+
+---
+
+## 🎯 Dor Escolhida
+
+Muitos freelancers utilizam:
+
+- WhatsApp
+- Planilhas
+- Bloco de notas
+- E-mails
+
+para controlar seus clientes e projetos.
+
+Isso pode gerar:
+
+- Perda de informações
+- Atraso nas entregas
+- Esquecimento de cobranças
+- Dificuldade de acompanhamento
+
+---
+
+## 💡 Proposta de Valor
+
+Centralizar toda a operação do freelancer em uma única plataforma simples e intuitiva.
+
+---
+## 📋 Business Model Canvas
+
+### 👥 Segmentos de Clientes
+
+- Desenvolvedores freelancers
+- Designers freelancers
+- Social Media
+- Gestores de Tráfego
+- Copywriters
+- Consultores independentes
+- Profissionais autônomos que atendem múltiplos clientes
+
+### 💎 Proposta de Valor
+
+O FreelaFlow centraliza clientes, projetos, entregas e cobranças em uma única plataforma simples e intuitiva, reduzindo a dependência de planilhas, anotações e mensagens espalhadas em diferentes canais.
+
+### 📢 Canais
+
+- Instagram
+- LinkedIn
+- TikTok
+- Indicação de clientes
+- WhatsApp
+- Comunidades de freelancers
+
+### 🤝 Relacionamento com Clientes
+
+- Autoatendimento através da plataforma
+- Suporte via WhatsApp
+- Base de conhecimento e FAQs
+- Coleta contínua de feedback dos usuários
+
+### 💰 Fontes de Receita
+
+- Assinatura mensal
+- Plano gratuito com recursos limitados
+- Futuras funcionalidades premium
+
+### 🔑 Recursos Principais
+
+- Plataforma web
+- Dashboard administrativo
+- Sistema de gestão de clientes e projetos
+- Infraestrutura em nuvem
+- Marca FreelaFlow
+
+### ⚙️ Atividades Principais
+
+- Desenvolvimento da plataforma
+- Manutenção do sistema
+- Suporte aos usuários
+- Marketing digital
+- Validação contínua do produto
+
+### 🤝 Parceiros Principais
+
+- Comunidades de freelancers
+- Criadores de conteúdo sobre freelancing
+- Ferramentas de pagamento digital
+- Plataformas de hospedagem
+
+### 💸 Estrutura de Custos
+
+- Hospedagem da aplicação
+- Domínio
+- Ferramentas de desenvolvimento
+- Marketing e divulgação
+- Serviços de terceiros e APIs
+
+### 👥 Segmentos de Clientes
+
+O FreelaFlow é direcionado para profissionais autônomos e freelancers que gerenciam múltiplos clientes e projetos simultaneamente.
+
+Público-alvo principal:
+
+- Desenvolvedores Freelancer
+- Designers Gráficos e UX/UI Designers
+- Social Media
+- Copywriters
+- Gestores de Tráfego
+- Consultores Independe
+- Web Designers
+- Editores de Vídeo
+- Profissionais de Marketing Digital
+
+Esses profissionais geralmente utilizam WhatsApp, planilhas e anotações para acompanhar clientes, projetos, entregas e cobranças, criando dificuldades na organização e no acompanhamento do trabalho.
+
+### 💎 Proposta de Valor
+
+O FreelaFlow oferece uma solução simples e intuitiva para freelancers organizarem clientes, projetos, entregas e cobranças em um único lugar.
+
+A plataforma reduz a dependência de planilhas, anotações e conversas dispersas no WhatsApp, proporcionando mais controle, produtividade e visibilidade sobre o trabalho realizado.
+
+Principais benefícios:
+
+- Centralização de informações em um único ambiente
+- Melhor acompanhamento de projetos e entregas
+- Controle simples de clientes e cobranças
+- Redução de esquecimentos e atrasos
+- Maior produtividade no dia a dia do freelancer
+
+### 📢 Canais
+
+O FreelaFlow pretende alcançar seu público-alvo por meio de canais digitais frequentados por freelancers e profissionais autônomos.
+
+Principais canais:
+
+- Instagram
+- LinkedIn
+- TikTok
+- WhatsApp
+- Indicações de clientes e parceiros
+- Comunidades de freelancers
+- Grupos de networking e empreendedorismo
+
+Esses canais serão utilizados para divulgar a solução, captar leads e validar o interesse dos usuários no MVP.
+
+### 🤝 Relacionamento com Clientes
+
+O relacionamento com os clientes será baseado em simplicidade, proximidade e coleta contínua de feedback para evolução do produto.
+
+Estratégias de relacionamento:
+
+- Autoatendimento por meio da plataforma
+- Suporte via WhatsApp
+- Contato direto com usuários durante a fase de validação
+- Coleta de feedback para melhoria contínua do MVP
+- Comunicação por e-mail para novidades e atualizações
+
+Durante a fase inicial do projeto, o relacionamento será mais próximo e manual, permitindo compreender melhor as necessidades dos freelancers e validar as hipó
+
+### 💰 Fontes de Receita
+
+O modelo de negócio do FreelaFlow será baseado em assinatura recorrente, oferecendo uma solução acessível para freelancers que desejam organizar melhor seus clientes e projetos.
+
+Possíveis fontes de receita:
+
+- Assinatura mensal do plano básico
+- Assinatura mensal do plano premium
+- Funcionalidades avançadas mediante upgrade
+- Planos para profissionais com maior volume de clientes
+
+Durante a fase inicial do MVP, o foco não será a monetização, mas sim a validação da proposta de valor e o interesse dos usuários na solução.
+
+### 🔑 Recursos Principais
+
+Para entregar valor aos usuários, o FreelaFlow depende de recursos tecnológicos e operacionais essenciais para o funcionamento da plataforma.
+
+Principais recursos:
+
+- Aplicação web FreelaFlow
+- Dashboard para gerenciamento de clientes e projetos
+- Infraestrutura de hospedagem em nuvem
+- Integração com WhatsApp para captação de leads
+- Base de usuários e feedbacks coletados durante a validação
+- Conhecimento sobre as necessidades dos freelancers
+- Ferramentas de desenvolvimento e inteligência artificial utilizadas na criação do MVP
+
+Esses recursos permitem desenvolver, manter e evoluir a solução conforme as necessidades do público-alvo.
+
+### ⚙️ Atividades Principais
+
+As atividades principais do FreelaFlow estão relacionadas ao desenvolvimento, manutenção e evolução contínua da plataforma.
+
+Principais atividades:
+
+- Desenvolvimento e melhoria da aplicação
+- Gestão e organização dos dados dos usuários
+- Captação e validação de novos clientes
+- Coleta de feedback dos freelancers
+- Suporte aos usuários
+- Manutenção da infraestrutura da plataforma
+- Divulgação e marketing digital
+- Implementação de novas funcionalidades
+- Monitoramento da experiência dos usuários
+
+Essas atividades garantem que o FreelaFlow continue resolvendo os problemas de organização enfrentados pelos freelancers.
+
+### 🤝 Parceiros Principais
+
+Os parceiros principais contribuem para a divulgação, desenvolvimento e crescimento do FreelaFlow.
+
+Principais parceiros:
+
+- Comunidades de freelancers
+- Criadores de conteúdo sobre trabalho freelancer
+- Plataformas de hospedagem e infraestrutura
+- Ferramentas de comunicação, como WhatsApp
+- Ferramentas de desenvolvimento e IA utilizadas na construção do MVP
+- Plataformas de pagamento que poderão ser integradas futuramente
+- Profissionais freelancers que participarem da fase de validação
+
+Essas parcerias ajudam a ampliar o alcance da solução, validar hipóteses de negócio e apoiar a evolução do produto.
+
+### 💸 Estrutura de Custos
+
+Os principais custos do FreelaFlow estão relacionados ao desenvolvimento, hospedagem e manutenção da plataforma.
+
+Principais custos:
+
+- Hospedagem da aplicação
+- Registro e manutenção de domínio
+- Ferramentas de desenvolvimento
+- Serviços de armazenamento em nuvem
+- Ferramentas de marketing e divulgação
+- APIs e integrações futuras
+- Manutenção e evolução da plataforma
+- Custos operacionais de suporte aos usuários
+
+Durante a fase de MVP, os custos serão mantidos baixos, priorizando a validação da ideia antes de investimentos maiores em infraestrutura e automação.
+...
+## 📊 Mercado
+
+### TAM (Total Addressable Market)
+
+Todos os freelancers e profissionais autônomos do Brasil.
+
+### SAM (Serviceable Available Market)
+
+Freelancers que utilizam ferramentas digitais para gerenciar clientes.
+
+### SOM (Serviceable Obtainable Market)
+
+Freelancers das áreas de:
+
+- Design
+- Desenvolvimento
+- Marketing Digital
+- Social Media
+- Consultoria
+
+---
+
+## 🧪 Hipótese do MVP
+
+Validar se freelancers utilizariam uma plataforma simples para organizar:
+
+- Clientes
+- Projetos
+- Entregas
+- Cobranças
+
+---
+
+## ✅ Funcionalidades
+
+- Landing Page
+- Cadastro de Leads
+- Integração com WhatsApp
+- Dashboard Administrativo
+- Gestão de Clientes
+- Controle de Projetos
+- Controle de Entregas
+
+---
+
+## ⚙️ O Que Ficou Manual
+
+Para focar apenas na validação da ideia:
+
+- Fechamento de contratos
+- Atendimento ao cliente
+- Cobranças
+- Recebimento de pagamentos
+
+---
+
+## 🛠️ Tecnologias
+
+- Lovable
+- React
+- TypeScript
+- GitHub
+
+---
+
+## 🚀 Mega Prompt Utilizado no Lovable
+
+O prompt abaixo foi utilizado para gerar a primeira versão do MVP no Lovable.
+
+```text
+Crie uma aplicação SaaS chamada "FreelaFlow".
+
+OBJETIVO
+
+O FreelaFlow é uma plataforma para freelancers organizarem clientes, projetos, entregas e cobranças em um único lugar.
+
+O objetivo deste MVP é validar se freelancers têm interesse em utilizar uma solução simples para gerenciar seu trabalho diário, substituindo planilhas, anotações e conversas dispersas no WhatsApp.
+
+O foco é validação de negócio, não escalabilidade.
+
+Utilize o backend nativo do Lovable Cloud.
+
+Não utilizar integrações externas obrigatórias.
+
+Não criar sistema de pagamento.
+
+Não criar autenticação complexa.
+
+Criar dados de demonstração para facilitar testes.
+
+PÚBLICO-ALVO
+
+- Desenvolvedores Freelancer
+- Designers
+- Social Media
+- Copywriters
+- Gestores de Tráfego
+- Consultores Independentes
+
+IDENTIDADE VISUAL
+
+Nome: FreelaFlow
+
+Slogan:
+"Organize clientes, projetos e cobranças em um único lugar."
+
+Paleta:
+
+Primária
+
+Em desenvolvimento.
+
+---
+
+## 📸 Prints
+
+### Landing Page
+
+*Adicionar imagem após a publicação.*
+
+### Dashboard
+
+*Adicionar imagem após a publicação.*
+
+---
+
+## 👨‍💻 Autora
+
+Projeto desenvolvido como desafio de criação de MVP utilizando IA como co-founder de Brena Silva
