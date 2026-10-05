@@ -362,7 +362,229 @@ Em desenvolvimento.
 
 ---
 
+
+
+Ajuste a experiência de usuário do FreelaFlow para que funcione como um SaaS real.
+
+ALTERAÇÕES NECESSÁRIAS
+
+1. Fluxo "Começar Gratuitamente"
+
+Remover o redirecionamento para WhatsApp após o cadastro.
+
+Após clicar em "Começar Gratuitamente", abrir uma tela de cadastro de usuário.
+
+Campos:
+
+- Nome
+- E-mail
+- Senha
+
+Adicionar também:
+
+- Continuar com Google
+
+Após criar a conta ou entrar com Google:
+
+Redirecionar diretamente para o Dashboard do FreelaFlow.
+
+Não exibir modal de "Continuar no WhatsApp".
+
+--------------------------------------------------
+
+2. Fluxo WhatsApp
+
+Manter o botão "Falar no WhatsApp".
+
+Esse botão deve abrir diretamente uma conversa no WhatsApp.
+
+Objetivo:
+
+- Tirar dúvidas
+- Solicitar informações
+- Atendimento comercial
+
+Não utilizar o WhatsApp como etapa obrigatória do cadastro.
+
+--------------------------------------------------
+
+3. Ajustar Posicionamento do Produto
+
+O FreelaFlow deve ser percebido como um software SaaS.
+
+A experiência principal deve ser:
+
+Landing Page → Cadastro → Dashboard
+
+e não
+
+Landing Page → WhatsApp.
+
+--------------------------------------------------
+
+4. Dashboard
+
+Garantir que novos usuários tenham acesso imediato ao dashboard após cadastro.
+
+Se necessário, criar dados de demonstração para a primeira experiência.
+
+--------------------------------------------------
+
+5. Experiência de Usuário
+
+Melhorar a jornada para reduzir etapas.
+
+O objetivo principal é permitir que o usuário experimente a plataforma imediatamente após o cadastro.
+
+Manter design atual.
+
+Manter identidade visual atual.
+
+Manter responsividade.
+
+
+# Correção de Usabilidade - Gestão de Projetos e Cobranças
+
+Quero melhorar a autonomia do usuário dentro do FreelaFlow.
+
+## Problema Identificado
+
+Atualmente os projetos mudam de status ao clicar em determinadas ações, porém não existe uma forma clara de editar as informações posteriormente.
+
+Isso gera perda de controle quando uma alteração é realizada por engano.
+
+O usuário deve ter liberdade para editar qualquer informação a qualquer momento.
+
+---
+
+## Melhorias Necessárias
+
+### 1. Edição Completa de Projetos
+
+Adicionar um botão de edição em cada projeto.
+
+Ao clicar em editar, abrir um modal ou formulário contendo:
+
+- Nome do projeto
+- Nome do cliente
+- Descrição
+- Data de entrega
+- Status
+
+Permitir salvar alterações.
+
+---
+
+### 2. Status de Projeto Editável
+
+Substituir a troca automática de status por um seletor de status.
+
+Criar as opções:
+
+- Planejamento
+- Em andamento
+- Em revisão
+- Entregue
+- Concluído
+
+O usuário deve poder:
+
+- Alterar para qualquer status
+- Voltar para status anteriores
+- Corrigir erros de atualização
+
+Exemplo:
+
+Entregue → Em andamento
+
+Concluído → Em revisão
+
+Sem restrições.
+
+---
+
+### 3. Edição Completa de Cobranças
+
+Adicionar botão de edição em cada cobrança.
+
+Permitir alterar:
+
+- Valor
+- Cliente
+- Projeto
+- Status do pagamento
+- Data
+
+---
+
+### 4. Status de Pagamento Editável
+
+Transformar o status em um seletor.
+
+Opções:
+
+- Pendente
+- Aguardando pagamento
+- Pago
+
+O usuário deve poder alterar livremente entre os estados.
+
+Exemplo:
+
+Pago → Pendente
+
+Pendente → Pago
+
+Sem bloqueios.
+
+---
+
+### 5. Exclusão de Registros
+
+Adicionar confirmação antes da exclusão.
+
+Mensagem:
+
+"Tem certeza que deseja excluir este item?"
+
+Opções:
+
+- Cancelar
+- Excluir
+
+---
+
+### 6. Experiência do Usuário
+
+Garantir que:
+
+- Nenhuma alteração seja irreversível.
+- Todo projeto possa ser editado.
+- Toda cobrança possa ser editada.
+- Os status possam ser alterados livremente.
+- O sistema se comporte como uma ferramenta de gestão profissional.
+
+---
+
+### Resultado Esperado
+
+O usuário deve ter controle total sobre:
+
+- Projetos
+- Cobranças
+- Status
+- Informações cadastradas
+
+Sem depender de ações automáticas ou estados bloqueados.
+
 ## 📸 Prints
+
+
+
+
+
+
+
 
 ### Landing Page
 
