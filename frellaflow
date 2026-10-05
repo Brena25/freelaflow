@@ -4,263 +4,66 @@
 
 ---
 
-## 📖 Sobre o Projeto
+# 📖 Sobre o Projeto
 
-O **FreelaFlow** é um MVP desenvolvido para ajudar freelancers a gerenciar clientes, projetos, entregas e cobranças de forma simples e organizada.
+O **FreelaFlow** é um MVP de uma plataforma SaaS criada para ajudar freelancers e profissionais autônomos a gerenciar clientes, projetos, entregas e cobranças em um único lugar.
 
-O objetivo é validar a hipótese de que freelancers precisam de uma ferramenta mais prática do que planilhas, anotações e conversas espalhadas no WhatsApp.
+O objetivo é validar a hipótese de que freelancers precisam de uma solução mais prática e centralizada do que utilizar planilhas, anotações e conversas espalhadas pelo WhatsApp.
+
+O projeto foi desenvolvido como um desafio de criação de um produto digital utilizando **Inteligência Artificial como co-founder** e o **Lovable** para construção do MVP.
 
 ---
 
-## 🎯 Dor Escolhida
+# 🎯 Dor Escolhida
 
-Muitos freelancers utilizam:
+Muitos freelancers utilizam diferentes ferramentas para controlar sua rotina, como:
 
 - WhatsApp
 - Planilhas
-- Bloco de notas
+- Bloco de Notas
 - E-mails
 
-para controlar seus clientes e projetos.
-
-Isso pode gerar:
+Essa fragmentação pode gerar:
 
 - Perda de informações
-- Atraso nas entregas
+- Atrasos nas entregas
 - Esquecimento de cobranças
-- Dificuldade de acompanhamento
+- Dificuldade para acompanhar projetos
+- Falta de visão geral sobre clientes e trabalhos em andamento
+
+O FreelaFlow nasce com a proposta de centralizar essas informações em uma única plataforma.
 
 ---
 
-## 💡 Proposta de Valor
+# 💡 Proposta de Valor
 
-Centralizar toda a operação do freelancer em uma única plataforma simples e intuitiva.
+O FreelaFlow oferece uma solução simples e intuitiva para freelancers organizarem sua operação em um único ambiente.
+
+A plataforma permite centralizar:
+
+- Clientes
+- Projetos
+- Entregas
+- Cobranças
+- Status dos trabalhos
+
+A proposta é reduzir a dependência de planilhas, anotações e conversas dispersas, proporcionando mais controle e visibilidade sobre o trabalho.
 
 ---
-## 📋 Business Model Canvas
 
-### 👥 Segmentos de Clientes
+# 📊 Mercado
 
-- Desenvolvedores freelancers
-- Designers freelancers
-- Social Media
-- Gestores de Tráfego
-- Copywriters
-- Consultores independentes
-- Profissionais autônomos que atendem múltiplos clientes
-
-### 💎 Proposta de Valor
-
-O FreelaFlow centraliza clientes, projetos, entregas e cobranças em uma única plataforma simples e intuitiva, reduzindo a dependência de planilhas, anotações e mensagens espalhadas em diferentes canais.
-
-### 📢 Canais
-
-- Instagram
-- LinkedIn
-- TikTok
-- Indicação de clientes
-- WhatsApp
-- Comunidades de freelancers
-
-### 🤝 Relacionamento com Clientes
-
-- Autoatendimento através da plataforma
-- Suporte via WhatsApp
-- Base de conhecimento e FAQs
-- Coleta contínua de feedback dos usuários
-
-### 💰 Fontes de Receita
-
-- Assinatura mensal
-- Plano gratuito com recursos limitados
-- Futuras funcionalidades premium
-
-### 🔑 Recursos Principais
-
-- Plataforma web
-- Dashboard administrativo
-- Sistema de gestão de clientes e projetos
-- Infraestrutura em nuvem
-- Marca FreelaFlow
-
-### ⚙️ Atividades Principais
-
-- Desenvolvimento da plataforma
-- Manutenção do sistema
-- Suporte aos usuários
-- Marketing digital
-- Validação contínua do produto
-
-### 🤝 Parceiros Principais
-
-- Comunidades de freelancers
-- Criadores de conteúdo sobre freelancing
-- Ferramentas de pagamento digital
-- Plataformas de hospedagem
-
-### 💸 Estrutura de Custos
-
-- Hospedagem da aplicação
-- Domínio
-- Ferramentas de desenvolvimento
-- Marketing e divulgação
-- Serviços de terceiros e APIs
-
-### 👥 Segmentos de Clientes
-
-O FreelaFlow é direcionado para profissionais autônomos e freelancers que gerenciam múltiplos clientes e projetos simultaneamente.
-
-Público-alvo principal:
-
-- Desenvolvedores Freelancer
-- Designers Gráficos e UX/UI Designers
-- Social Media
-- Copywriters
-- Gestores de Tráfego
-- Consultores Independe
-- Web Designers
-- Editores de Vídeo
-- Profissionais de Marketing Digital
-
-Esses profissionais geralmente utilizam WhatsApp, planilhas e anotações para acompanhar clientes, projetos, entregas e cobranças, criando dificuldades na organização e no acompanhamento do trabalho.
-
-### 💎 Proposta de Valor
-
-O FreelaFlow oferece uma solução simples e intuitiva para freelancers organizarem clientes, projetos, entregas e cobranças em um único lugar.
-
-A plataforma reduz a dependência de planilhas, anotações e conversas dispersas no WhatsApp, proporcionando mais controle, produtividade e visibilidade sobre o trabalho realizado.
-
-Principais benefícios:
-
-- Centralização de informações em um único ambiente
-- Melhor acompanhamento de projetos e entregas
-- Controle simples de clientes e cobranças
-- Redução de esquecimentos e atrasos
-- Maior produtividade no dia a dia do freelancer
-
-### 📢 Canais
-
-O FreelaFlow pretende alcançar seu público-alvo por meio de canais digitais frequentados por freelancers e profissionais autônomos.
-
-Principais canais:
-
-- Instagram
-- LinkedIn
-- TikTok
-- WhatsApp
-- Indicações de clientes e parceiros
-- Comunidades de freelancers
-- Grupos de networking e empreendedorismo
-
-Esses canais serão utilizados para divulgar a solução, captar leads e validar o interesse dos usuários no MVP.
-
-### 🤝 Relacionamento com Clientes
-
-O relacionamento com os clientes será baseado em simplicidade, proximidade e coleta contínua de feedback para evolução do produto.
-
-Estratégias de relacionamento:
-
-- Autoatendimento por meio da plataforma
-- Suporte via WhatsApp
-- Contato direto com usuários durante a fase de validação
-- Coleta de feedback para melhoria contínua do MVP
-- Comunicação por e-mail para novidades e atualizações
-
-Durante a fase inicial do projeto, o relacionamento será mais próximo e manual, permitindo compreender melhor as necessidades dos freelancers e validar as hipó
-
-### 💰 Fontes de Receita
-
-O modelo de negócio do FreelaFlow será baseado em assinatura recorrente, oferecendo uma solução acessível para freelancers que desejam organizar melhor seus clientes e projetos.
-
-Possíveis fontes de receita:
-
-- Assinatura mensal do plano básico
-- Assinatura mensal do plano premium
-- Funcionalidades avançadas mediante upgrade
-- Planos para profissionais com maior volume de clientes
-
-Durante a fase inicial do MVP, o foco não será a monetização, mas sim a validação da proposta de valor e o interesse dos usuários na solução.
-
-### 🔑 Recursos Principais
-
-Para entregar valor aos usuários, o FreelaFlow depende de recursos tecnológicos e operacionais essenciais para o funcionamento da plataforma.
-
-Principais recursos:
-
-- Aplicação web FreelaFlow
-- Dashboard para gerenciamento de clientes e projetos
-- Infraestrutura de hospedagem em nuvem
-- Integração com WhatsApp para captação de leads
-- Base de usuários e feedbacks coletados durante a validação
-- Conhecimento sobre as necessidades dos freelancers
-- Ferramentas de desenvolvimento e inteligência artificial utilizadas na criação do MVP
-
-Esses recursos permitem desenvolver, manter e evoluir a solução conforme as necessidades do público-alvo.
-
-### ⚙️ Atividades Principais
-
-As atividades principais do FreelaFlow estão relacionadas ao desenvolvimento, manutenção e evolução contínua da plataforma.
-
-Principais atividades:
-
-- Desenvolvimento e melhoria da aplicação
-- Gestão e organização dos dados dos usuários
-- Captação e validação de novos clientes
-- Coleta de feedback dos freelancers
-- Suporte aos usuários
-- Manutenção da infraestrutura da plataforma
-- Divulgação e marketing digital
-- Implementação de novas funcionalidades
-- Monitoramento da experiência dos usuários
-
-Essas atividades garantem que o FreelaFlow continue resolvendo os problemas de organização enfrentados pelos freelancers.
-
-### 🤝 Parceiros Principais
-
-Os parceiros principais contribuem para a divulgação, desenvolvimento e crescimento do FreelaFlow.
-
-Principais parceiros:
-
-- Comunidades de freelancers
-- Criadores de conteúdo sobre trabalho freelancer
-- Plataformas de hospedagem e infraestrutura
-- Ferramentas de comunicação, como WhatsApp
-- Ferramentas de desenvolvimento e IA utilizadas na construção do MVP
-- Plataformas de pagamento que poderão ser integradas futuramente
-- Profissionais freelancers que participarem da fase de validação
-
-Essas parcerias ajudam a ampliar o alcance da solução, validar hipóteses de negócio e apoiar a evolução do produto.
-
-### 💸 Estrutura de Custos
-
-Os principais custos do FreelaFlow estão relacionados ao desenvolvimento, hospedagem e manutenção da plataforma.
-
-Principais custos:
-
-- Hospedagem da aplicação
-- Registro e manutenção de domínio
-- Ferramentas de desenvolvimento
-- Serviços de armazenamento em nuvem
-- Ferramentas de marketing e divulgação
-- APIs e integrações futuras
-- Manutenção e evolução da plataforma
-- Custos operacionais de suporte aos usuários
-
-Durante a fase de MVP, os custos serão mantidos baixos, priorizando a validação da ideia antes de investimentos maiores em infraestrutura e automação.
-...
-## 📊 Mercado
-
-### TAM (Total Addressable Market)
+## TAM (Total Addressable Market)
 
 Todos os freelancers e profissionais autônomos do Brasil.
 
-### SAM (Serviceable Available Market)
+## SAM (Serviceable Available Market)
 
-Freelancers que utilizam ferramentas digitais para gerenciar clientes.
+Freelancers que utilizam ferramentas digitais para gerenciar clientes, projetos e atividades profissionais.
 
-### SOM (Serviceable Obtainable Market)
+## SOM (Serviceable Obtainable Market)
 
-Freelancers das áreas de:
+Como primeiro recorte de público, o FreelaFlow considera freelancers das áreas de:
 
 - Design
 - Desenvolvimento
@@ -268,334 +71,336 @@ Freelancers das áreas de:
 - Social Media
 - Consultoria
 
----
-
-## 🧪 Hipótese do MVP
-
-Validar se freelancers utilizariam uma plataforma simples para organizar:
-
-- Clientes
-- Projetos
-- Entregas
-- Cobranças
+**Observação:** o MVP utiliza esse recorte inicial para validação da ideia.
 
 ---
 
-## ✅ Funcionalidades
+# 📋 Business Model Canvas
 
-- Landing Page
-- Cadastro de Leads
-- Integração com WhatsApp
-- Dashboard Administrativo
-- Gestão de Clientes
-- Controle de Projetos
-- Controle de Entregas
-
----
-
-## ⚙️ O Que Ficou Manual
-
-Para focar apenas na validação da ideia:
-
-- Fechamento de contratos
-- Atendimento ao cliente
-- Cobranças
-- Recebimento de pagamentos
-
----
-
-## 🛠️ Tecnologias
-
-- Lovable
-- React
-- TypeScript
-- GitHub
-
----
-
-## 🚀 Mega Prompt Utilizado no Lovable
-
-O prompt abaixo foi utilizado para gerar a primeira versão do MVP no Lovable.
-
-```text
-Crie uma aplicação SaaS chamada "FreelaFlow".
-
-OBJETIVO
-
-O FreelaFlow é uma plataforma para freelancers organizarem clientes, projetos, entregas e cobranças em um único lugar.
-
-O objetivo deste MVP é validar se freelancers têm interesse em utilizar uma solução simples para gerenciar seu trabalho diário, substituindo planilhas, anotações e conversas dispersas no WhatsApp.
-
-O foco é validação de negócio, não escalabilidade.
-
-Utilize o backend nativo do Lovable Cloud.
-
-Não utilizar integrações externas obrigatórias.
-
-Não criar sistema de pagamento.
-
-Não criar autenticação complexa.
-
-Criar dados de demonstração para facilitar testes.
-
-PÚBLICO-ALVO
+## 👥 Segmentos de Clientes
 
 - Desenvolvedores Freelancer
 - Designers
+- UX/UI Designers
+- Web Designers
 - Social Media
 - Copywriters
 - Gestores de Tráfego
+- Editores de Vídeo
+- Profissionais de Marketing Digital
 - Consultores Independentes
 
-IDENTIDADE VISUAL
+---
 
-Nome: FreelaFlow
+## 💎 Proposta de Valor
 
-Slogan:
-"Organize clientes, projetos e cobranças em um único lugar."
+Centralizar clientes, projetos, entregas e cobranças em uma única plataforma simples e intuitiva.
 
-Paleta:
+Benefícios:
 
-Primária
-
-Em desenvolvimento.
+- Centralização das informações
+- Melhor acompanhamento de projetos
+- Controle de cobranças
+- Redução de esquecimentos
+- Maior produtividade
 
 ---
 
+## 📢 Canais
 
+- Instagram
+- LinkedIn
+- TikTok
+- WhatsApp
+- Comunidades de freelancers
+- Indicações
+- Grupos de networking
 
-Ajuste a experiência de usuário do FreelaFlow para que funcione como um SaaS real.
+---
 
-ALTERAÇÕES NECESSÁRIAS
+## 🤝 Relacionamento com Clientes
 
-1. Fluxo "Começar Gratuitamente"
+- Autoatendimento pela plataforma
+- Suporte via WhatsApp
+- Coleta contínua de feedback
+- Comunicação por e-mail
+- Contato próximo durante a validação
 
-Remover o redirecionamento para WhatsApp após o cadastro.
+---
 
-Após clicar em "Começar Gratuitamente", abrir uma tela de cadastro de usuário.
+## 💰 Fontes de Receita
 
-Campos:
+- Plano gratuito limitado
+- Assinatura mensal básica
+- Assinatura premium
+- Recursos avançados por upgrade
+- Planos para profissionais com maior volume de clientes
 
-- Nome
-- E-mail
-- Senha
+---
 
-Adicionar também:
+## 🔑 Recursos Principais
 
-- Continuar com Google
+- Aplicação Web FreelaFlow
+- Dashboard administrativo
+- Sistema de gestão de clientes
+- Infraestrutura em nuvem
+- Integração com WhatsApp
+- Ferramentas de desenvolvimento
+- Ferramentas de IA
 
-Após criar a conta ou entrar com Google:
+---
 
-Redirecionar diretamente para o Dashboard do FreelaFlow.
+## ⚙️ Atividades Principais
 
-Não exibir modal de "Continuar no WhatsApp".
+- Desenvolvimento da plataforma
+- Manutenção do sistema
+- Captação de usuários
+- Marketing digital
+- Suporte aos usuários
+- Evolução contínua do produto
 
---------------------------------------------------
+---
 
-2. Fluxo WhatsApp
+## 🤝 Parceiros Principais
 
-Manter o botão "Falar no WhatsApp".
+- Comunidades de freelancers
+- Criadores de conteúdo
+- Plataformas de hospedagem
+- Ferramentas de comunicação
+- Ferramentas de IA
+- Plataformas de pagamento futuras
 
-Esse botão deve abrir diretamente uma conversa no WhatsApp.
+---
 
-Objetivo:
+## 💸 Estrutura de Custos
 
-- Tirar dúvidas
-- Solicitar informações
+- Hospedagem da aplicação
+- Domínio
+- Ferramentas de desenvolvimento
+- Serviços em nuvem
+- Marketing
+- APIs futuras
+- Suporte aos usuários
+
+---
+
+# 🧪 Tese do MVP
+
+A principal hipótese do FreelaFlow é:
+
+> Freelancers utilizariam uma plataforma simples e centralizada para organizar clientes, projetos, entregas e cobranças, reduzindo a dependência de planilhas, anotações e conversas dispersas.
+
+O MVP foi desenvolvido para validar essa hipótese antes de investir em funcionalidades mais complexas.
+
+---
+
+# ✅ Funcionalidades do MVP
+
+- Landing Page
+- Cadastro de usuários
+- Login no sistema
+- Dashboard administrativo
+- Cadastro de clientes
+- Gestão de projetos
+- Controle de entregas
+- Gestão de cobranças
+- Edição de projetos
+- Edição de cobranças
+- Controle de status
+- Exclusão com confirmação
+- Integração com WhatsApp
+
+Fluxo principal:
+
+**Landing Page → Cadastro → Dashboard**
+
+O WhatsApp permanece apenas como canal de atendimento.
+
+---
+
+# ⚙️ O Que Ficou Manual
+
+Para manter o foco na validação da tese de negócio:
+
+- Fechamento de contratos
 - Atendimento comercial
-
-Não utilizar o WhatsApp como etapa obrigatória do cadastro.
-
---------------------------------------------------
-
-3. Ajustar Posicionamento do Produto
-
-O FreelaFlow deve ser percebido como um software SaaS.
-
-A experiência principal deve ser:
-
-Landing Page → Cadastro → Dashboard
-
-e não
-
-Landing Page → WhatsApp.
-
---------------------------------------------------
-
-4. Dashboard
-
-Garantir que novos usuários tenham acesso imediato ao dashboard após cadastro.
-
-Se necessário, criar dados de demonstração para a primeira experiência.
-
---------------------------------------------------
-
-5. Experiência de Usuário
-
-Melhorar a jornada para reduzir etapas.
-
-O objetivo principal é permitir que o usuário experimente a plataforma imediatamente após o cadastro.
-
-Manter design atual.
-
-Manter identidade visual atual.
-
-Manter responsividade.
-
-
-# Correção de Usabilidade - Gestão de Projetos e Cobranças
-
-Quero melhorar a autonomia do usuário dentro do FreelaFlow.
-
-## Problema Identificado
-
-Atualmente os projetos mudam de status ao clicar em determinadas ações, porém não existe uma forma clara de editar as informações posteriormente.
-
-Isso gera perda de controle quando uma alteração é realizada por engano.
-
-O usuário deve ter liberdade para editar qualquer informação a qualquer momento.
-
----
-
-## Melhorias Necessárias
-
-### 1. Edição Completa de Projetos
-
-Adicionar um botão de edição em cada projeto.
-
-Ao clicar em editar, abrir um modal ou formulário contendo:
-
-- Nome do projeto
-- Nome do cliente
-- Descrição
-- Data de entrega
-- Status
-
-Permitir salvar alterações.
-
----
-
-### 2. Status de Projeto Editável
-
-Substituir a troca automática de status por um seletor de status.
-
-Criar as opções:
-
-- Planejamento
-- Em andamento
-- Em revisão
-- Entregue
-- Concluído
-
-O usuário deve poder:
-
-- Alterar para qualquer status
-- Voltar para status anteriores
-- Corrigir erros de atualização
-
-Exemplo:
-
-Entregue → Em andamento
-
-Concluído → Em revisão
-
-Sem restrições.
-
----
-
-### 3. Edição Completa de Cobranças
-
-Adicionar botão de edição em cada cobrança.
-
-Permitir alterar:
-
-- Valor
-- Cliente
-- Projeto
-- Status do pagamento
-- Data
-
----
-
-### 4. Status de Pagamento Editável
-
-Transformar o status em um seletor.
-
-Opções:
-
-- Pendente
-- Aguardando pagamento
-- Pago
-
-O usuário deve poder alterar livremente entre os estados.
-
-Exemplo:
-
-Pago → Pendente
-
-Pendente → Pago
-
-Sem bloqueios.
-
----
-
-### 5. Exclusão de Registros
-
-Adicionar confirmação antes da exclusão.
-
-Mensagem:
-
-"Tem certeza que deseja excluir este item?"
-
-Opções:
-
-- Cancelar
-- Excluir
-
----
-
-### 6. Experiência do Usuário
-
-Garantir que:
-
-- Nenhuma alteração seja irreversível.
-- Todo projeto possa ser editado.
-- Toda cobrança possa ser editada.
-- Os status possam ser alterados livremente.
-- O sistema se comporte como uma ferramenta de gestão profissional.
-
----
-
-### Resultado Esperado
-
-O usuário deve ter controle total sobre:
-
-- Projetos
 - Cobranças
-- Status
-- Informações cadastradas
+- Recebimento de pagamentos
 
-Sem depender de ações automáticas ou estados bloqueados.
-
-## 📸 Prints
-
-
-
-
-
-
-
-
-### Landing Page
-
-*Adicionar imagem após a publicação.*
-
-### Dashboard
-
-*Adicionar imagem após a publicação.*
+Essas etapas poderão ser automatizadas em versões futuras.
 
 ---
 
-## 👨‍💻 Autora
+# 🛠️ Tecnologias Utilizadas
 
-Projeto desenvolvido como desafio de criação de MVP utilizando IA como co-founder de Brena Silva
+- Lovable
+- Lovable Cloud
+- React
+- TypeScript
+- GitHub
+- Inteligência Artificial
+
+---
+
+# 🤖 IA como Co-founder
+
+A Inteligência Artificial foi utilizada como parceira durante todo o processo de desenvolvimento.
+
+Principais contribuições:
+
+- Estruturação da ideia
+- Definição da proposta de valor
+- Construção do Business Model Canvas
+- Criação das hipóteses de negócio
+- Elaboração dos prompts
+- Identificação de melhorias
+- Refinamento da experiência do usuário
+- Apoio no desenvolvimento do MVP
+
+---
+
+# 🚀 Mega Prompt Utilizado no Lovable
+
+O MVP foi criado através de um mega prompt estruturado contendo:
+
+- Objetivo do produto
+- Público-alvo
+- Identidade visual
+- Landing Page
+- Cadastro de usuários
+- Dashboard
+- Gestão de clientes
+- Gestão de projetos
+- Gestão de cobranças
+- Integração com WhatsApp
+- Regras de responsividade
+
+> O prompt completo utilizado encontra-se documentado durante o desenvolvimento do projeto.
+
+---
+
+# 🔄 Correções Realizadas
+
+## Correção 1 - Ajuste da Jornada do Usuário
+
+### Problema Identificado
+
+O fluxo inicial direcionava o usuário para o WhatsApp após o cadastro, dificultando a experimentação imediata da plataforma.
+
+### Solução Implementada
+
+- Cadastro com Nome, E-mail e Senha
+- Entrada direta no Dashboard
+- WhatsApp mantido apenas como canal de atendimento
+
+### Resultado
+
+O produto passou a ter fluxo semelhante ao de um SaaS real:
+
+**Landing Page → Cadastro → Dashboard**
+
+---
+
+## Correção 2 - Gestão de Projetos e Cobranças
+
+### Problema Identificado
+
+Os projetos não possuíam edição completa e o usuário não conseguia retornar para status anteriores após determinadas alterações.
+
+Além disso, cobranças possuíam pouca flexibilidade de edição.
+
+### Solução Implementada
+
+Foram adicionados:
+
+- Edição de projetos
+- Alteração de cliente
+- Alteração de descrição
+- Alteração de prazo
+- Alteração de status
+- Edição de cobranças
+- Status editáveis
+- Confirmação antes de excluir registros
+
+### Resultado
+
+O usuário passou a ter controle total sobre projetos e cobranças, tornando o sistema mais próximo de uma ferramenta profissional de gestão.
+
+---
+
+# 🌐 Aplicação Publicada
+
+**Link da Aplicação:**
+
+```text
+ADICIONE_AQUI_O_LINK_DA_APLICAÇÃO
+```
+
+---
+
+# 📸 Prints do Projeto
+
+## Landing Page
+
+
+
+
+
+
+## Cadastro de Usuário
+
+<!-- Cole aqui o print da tela de cadastro -->
+
+---
+
+## Dashboard
+
+<!-- Cole aqui o print do Dashboard -->
+
+---
+
+## Gestão de Projetos
+
+<!-- Cole aqui o print da tela de projetos -->
+
+---
+
+## Gestão de Cobranças
+
+<!-- Cole aqui o print da tela de cobranças -->
+
+---
+
+# 🎯 Resultado Obtido
+
+O FreelaFlow permitiu transformar uma dor real em um MVP funcional utilizando Inteligência Artificial como apoio na validação e construção do produto.
+
+O projeto permitiu:
+
+- Identificar uma oportunidade de mercado
+- Estruturar um modelo de negócio
+- Validar uma hipótese de produto
+- Construir um MVP funcional
+- Aplicar melhorias com base em testes reais
+
+---
+
+# 🚀 Próximos Passos
+
+Possíveis evoluções futuras:
+
+- Integração com Stripe
+- Notificações por e-mail
+- Relatórios financeiros
+- Integração com calendário
+- Dashboard avançado
+- Automação de cobranças
+- Integração com chatbot via WhatsApp
+
+---
+
+# 👩‍💻 Autora
+
+**Brena Silva**
+
+Projeto desenvolvido como desafio de criação de um MVP utilizando Inteligência Artificial como co-founder e Lovable para construção do produto digital.
